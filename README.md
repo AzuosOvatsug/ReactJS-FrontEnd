@@ -1,5 +1,4 @@
-Projeto feito com a ajuda da [RocketSeat](https://rocketseat.com.br).
+# Resumo
 
-## Resumo
-
-Front-End feito em ReactJS, com fins educacionais, para aprendizagem da linguagem e para aprender o funcionamento da mesma.
+Projeto criado a partir do curso gratuito oferecido pela [rocketseat](https://rocketseat.com.br/).
+Esse projeto tem fins educativos, com objetivo de aprender como desenvolver uma aplicação *front-end* com ***ReactJS***
